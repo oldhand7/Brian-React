@@ -1,0 +1,10 @@
+.images-brand {
+  min-height: 103px !important;
+}
+.links-hover {
+  transition: all ease-in-out 0.2s;
+}
+.links-hover:hover {
+  opacity: 70%;
+  text-decoration: underline;
+}
